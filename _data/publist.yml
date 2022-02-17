@@ -1,0 +1,65 @@
+- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
+  image: Pairs3.png
+  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
+  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
+  link:
+    url: https://www.science.org/doi/10.1126/science.abe3987
+    display: Science 374, 608 (2021)
+  highlight: 1
+  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
+
+- title: "Observation of flat bands in twisted bilayer graphene"
+  image: TBG_ARPES.png
+  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
+  authors: S Lisi*, X Lu*, T Benschop*, TA de Jong*, Petr S, JR Duran, F Margot, I Cucchi, E Cappelli, A Hunter, A Tamai, V Kandyba, A Giampietri, A Barinov, J Jobst, V Stalman, M Leeuwenhoek, K Watanabe, T Taniguchi, L Rademaker, SJ van der Molen, MP Allan, DK Efetov, F Baumberger
+  link:
+    url: https://www.nature.com/articles/s41567-020-01041-x
+    display:  Nature Physics 17, 198 (2020)
+  highlight: 1
+  news2: News coverage by <a href="https://www.nrc.nl/nieuws/2020/09/28/slome-elektronen-maken-grafeen-supergeleidend-a4013840"> NRC </a>
+
+- title: Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2
+  image: Pub_nemat1.png
+  description:
+    We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments.
+  authors:
+    T-M Chuang* & MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis
+  link:
+    url: http://www.sciencemag.org/content/327/5962/181
+    display: Science 327, 181 (2010)
+  highlight: 1
+  news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a>
+  news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
+
+- title: Heavy d-electron quasiparticle interference and real-space electronic structure of Sr3Ru2O7
+  image: Pub_hBN.png
+  description:
+    QPI in Sr327.
+  authors: Jinho Lee* & M. P. Allan*, M. A.Wang, J. Farrell, S. A. Grigera, F. Baumberger, J. C. Davis and A. P. Mackenzie
+  link:
+    url: https://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html
+    display: Nature Physics 5, 800 (2009)
+  highlight: 0
+
+- title: Fermi surface and van Hove singularities in the itinerant metamagnet Sr3Ru2O7
+  image: Pub_hBN.png
+  description:
+    We determine the Fermi surface of Sr327.
+  authors:
+    A Tamai, MP Allan, JF Mercure, W Meevasana, R Dunkel, DH Lu, RS Perry, AP Mackenzie, David J Singh, Z-X Shen, F Baumberger
+  link:
+    url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.026407
+    display: Phys. Rev. Lett. 101, 026407 (2008)
+  highlight: 0
+
+- title: Tunable  self-assembly of one-dimensional nanostructures with orthogonal directions
+  image: Pub_hBN.png
+  description:
+    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+  authors:
+    MP Allan, S Berner, M Corso, T Greber, J Osterwalder
+  link:
+    url: http://www.nanoscalereslett.com/content/2/2/94
+    display: Nanoscale Research Letters 2, 94 (2007)
+  highlight: 1
+

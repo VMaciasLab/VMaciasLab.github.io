@@ -1,0 +1,39 @@
+- name: Vanessa Macias
+  photo: Vanessa_cropped.jpg
+  info: Assistant professor at the Department of Biological Sciences, UNT
+  email: Vanessa.Macias@unt.edu
+  number_educ: 3
+  education1: Bachelor and Master in Science at the New Mexico State University
+  education2: "PhD at the University of California: Irvine, in the laboratory of Prof. Anthony James"
+  education3: Postdoc at The Pennsylvania State University in the laboratory of Prof. Jason Rasgon.
+
+
+- name: Chahal Patel
+  photo: Chahal.jpg
+  info: Master student in ???
+  email: 
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Tanvi Qadri
+  photo: Tanvi.jpg
+  info: Master student in ???
+  email: niu@physics.leidenuniv.nl
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: "This could be you !"
+  photo: you.jpg
+  info: See our vacancies section for more info!
+  email: 
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
