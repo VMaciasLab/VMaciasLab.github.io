@@ -1,27 +1,57 @@
 ---
 title: "Macias Lab - Research"
-layout: textlay
-excerpt: "Macias Lab -- Research"
+layout: gridlay
+excerpt: "Macias Lab -- Research."
 sitemap: false
 permalink: /research/
 ---
 
+
 # Research
 
-<p align="left">
-  <img alt="Light" src="{{ site.url }}{{ site.baseurl }}/images/respic/eggs.jpg" width="30%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="{{ site.url }}{{ site.baseurl }}/images/respic/fluo.jpg" width="30%">
-</p>
+General blurb on research
 
-### Mosquito as Vectors
- Mosquito-borne pathogens continue to be a major problem for both humans and animals. In many cases, pathogens are not simply physically moved from one vertebrate host to another. Instead, they often undergo complex development within the mosquito, both in the sense that they infect and traverse different tissues, and in the sense that they pass through multiple different developmental stages.
+## Projects
 
-### Mosquitoes as Ecosystems
-Something catchy about the complexity of genetic interactions in mosquitoes (encountering, phages, viruses, bacteria, parasites). Within this ecosystem, members interact and recognize each other in a variety of ways. By understanding this context we
 
-### Mosquito and Genetics based technologies for disease control
+{% assign number_printed = 0 %}
+{% for publi in site.data.reslist %}
 
-### The piRNA pathway in mosquitoes
-  
-  
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if publi.highlight == 1 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <pubtit>{{ publi.title }}</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <p>{{ publi.description }}</p>
+  <p><em>{{ publi.authors }}</em></p>
+  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+  <p> {{ publi.news2 }}</p>
+ </div>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endif %}
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+<p> &nbsp; </p>
+
+#### The Macias Laboratory is currently assembling a laboratory to support research around the complex biology of mosquito small RNA biology and to build shiny new tools for mosquito genetics! Check back soon for updated project details!  
+
+<br />

@@ -1,0 +1,38 @@
+I"
+<h1 id="publications">Publications</h1>
+
+<h2 id="group-highlights">Group highlights</h2>
+
+<p>(For a full list of publications and patents see <a href="#full-list-of-publications">below</a> or go to <a href="https://scholar.google.ch/citations?user=TqxYWZsAAAAJ">Google Scholar</a>, <a href="https://www.researcherid.com/rid/D-7763-2012">ResearcherID</a>)</p>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>TEsting</pubtit>
+      <p><img src="http://localhost:4000/images/respic/fluo.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.</p>
+      <p><em>KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan</em></p>
+      <p><strong><a href="https://www.science.org/doi/10.1126/science.abe3987">Science 374, 608 (2021)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> See <a href="https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/">Physics World</a>, <a href="https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding">SRON news</a>, <a href="https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity">TU Delft news</a>, <a href="https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered">Leiden news</a>.</p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Observation of flat bands in twisted bilayer graphene</pubtit>
+      <p><img src="http://localhost:4000/images/respic/TBG_ARPES.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.</p>
+      <p><em>S Lisi<em>, X Lu</em>, T Benschop<em>, TA de Jong</em>, Petr S, JR Duran, F Margot, I Cucchi, E Cappelli, A Hunter, A Tamai, V Kandyba, A Giampietri, A Barinov, J Jobst, V Stalman, M Leeuwenhoek, K Watanabe, T Taniguchi, L Rademaker, SJ van der Molen, MP Allan, DK Efetov, F Baumberger</em></p>
+      <p><strong><a href="https://www.nature.com/articles/s41567-020-01041-x">Nature Physics 17, 198 (2020)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> News coverage by <a href="https://www.nrc.nl/nieuws/2020/09/28/slome-elektronen-maken-grafeen-supergeleidend-a4013840"> NRC </a></p>
+    </div>
+  </div>
+
+</div>
+
+<p>   </p>
+
+:ET

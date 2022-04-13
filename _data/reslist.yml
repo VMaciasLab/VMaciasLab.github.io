@@ -1,0 +1,32 @@
+- title: "Mosquito as Vectors"
+  image: fluo.jpg
+  description: Mosquito-borne pathogens continue to be a major problem for both humans and animals. In many cases, pathogens are not simply physically moved from one vertebrate host to another. Instead, they often undergo complex development within the mosquito, both in the sense that they infect and traverse different tissues, and in the sense that they pass through multiple different developmental stages.
+  authors: 
+  link:
+    url: 
+    display: 
+  highlight: 1
+  news2: 
+
+- title: "Mosquitos as Models"
+  image: eggs.jpg
+  description: The current genetic model systems are limited in their ability to enlighten the function of all the interesting and special biology mosquitoes use to find hosts, process blood meals, and engage with pathogens and symbionts in the human blood. For blood feeders, Mosquitoes are at the front edge of genetic research. Our lab will join in the effort to establish new and powerful techniques to explore biology that has yet been challenging to get our minds (and our experiments) around!
+  authors: 
+  link:
+    url: 
+    display:  
+  highlight: 1
+  news2: 
+
+# The next line is an example of a complete research section, taken from publication. It is not active. the Authors section can be used to say which lab members are working on a specific project.
+
+# - title: "Observation of flat bands in twisted bilayer graphene"
+#  image: TBG_ARPES.png
+#  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
+#  authors: S Lisi*, X Lu*, T Benschop*, TA de Jong*, Petr S, JR Duran, F Margot, I Cucchi, E Cappelli, A Hunter, A Tamai, V Kandyba, A Giampietri, A Barinov, J Jobst, V Stalman, M Leeuwenhoek, K Watanabe, T Taniguchi, L Rademaker, SJ van der Molen, MP Allan, DK Efetov, F Baumberger
+#  link:
+#    url: https://www.nature.com/articles/s41567-020-01041-x
+#    display:  Nature Physics 17, 198 (2020)
+#  highlight: 1
+#  news2: News coverage by <a href="https://www.nrc.nl/nieuws/2020/09/28/slome-elektronen-maken-grafeen-supergeleidend-a4013840"> NRC </a>
+# See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).

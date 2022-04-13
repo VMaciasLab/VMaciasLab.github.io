@@ -1,0 +1,39 @@
+I"ö<h1 id="research">Research</h1>
+
+<p>General blurb on research</p>
+
+<h2 id="projects">Projects</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Mosquito as Vectors</pubtit>
+      <p><img src="http://localhost:4000/images/respic/fluo.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Mosquito-borne pathogens continue to be a major problem for both humans and animals. In many cases, pathogens are not simply physically moved from one vertebrate host to another. Instead, they often undergo complex development within the mosquito, both in the sense that they infect and traverse different tissues, and in the sense that they pass through multiple different developmental stages.</p>
+      <p><em></em></p>
+      <p><strong><a href=""></a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Mosquitos as Models</pubtit>
+      <p><img src="http://localhost:4000/images/respic/eggs.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>The current genetic model systems are limited in their ability to enlighten the function of all the interesting and special biology mosquitoes use to find hosts, process blood meals, and engage with pathogens and symbionts in the human blood. For blood feeders, Mosquitoes are at the front edge of genetic research. Our lab will join in the effort to establish new and powerful techniques to explore biology that has yet been challenging to get our minds (and our experiments) around!</p>
+      <p><em></em></p>
+      <p><strong><a href=""></a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<p> Â  </p>
+
+<h4 id="the-macias-laboratory-is-currently-assembling-a-laboratory-to-support-research-around-the-complex-biology-of-mosquito-small-rna-biology-and-to-build-shiny-new-tools-for-mosquito-genetics-check-back-soon-for-updated-project-details">The Macias Laboratory is currently assembling a laboratory to support research around the complex biology of mosquito small RNA biology and to build shiny new tools for mosquito genetics! Check back soon for updated project details!</h4>
+
+:ET
