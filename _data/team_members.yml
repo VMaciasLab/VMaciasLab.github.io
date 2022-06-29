@@ -20,27 +20,27 @@
   
 - name: Connor
   photo: ConnorGaul.jpeg
-  info: Junior Undergraduate Biology Major in the Department of Biological Sciences, UNT. Minor in Chemistry
-  email: patel.chahat3072@gmail.com
+  info: Master student in Molecular Biology and Biochemistry
+  email: ConnorGaul@my.unt.edu
   number_educ: 4
-  education1: "Macias Lab Project: Exploring the microbial contribution to small RNAs in mosquitoes"
-  education2: SEA-PHAGES Cohort 2-Discovered Phage Streptomyces bicolor NRRL B-3897
-  education3: Actively involved in numerous on-campus activites
-  education4: Volunteer at Cumberland Presbyterian Children's Home
+  education1: "Macias Lab Project: Tissues specific expression of Cas9 for Gene Knockdown in Challenging Tissues"
+  education2: 
+  education3: 
+  education4: 
 
 - name: Tanvi Qadri
   photo: Tanvi.jpg
-  info: Master student in ???
+  info: Master student in Molecular Biology and Biochemistry
   email: niu@physics.leidenuniv.nl
   number_educ: 0
-  education1:
+  education1: "Macias Lab Project: Exploring the microbial contribution to small RNAs in mosquitoes"
   education2:
   education3:
   education4:
 
-- name: "This could be you !"
+- name: 
   photo: you.jpg
-  info: If you're a student interested in joining the lab contact Vanessa!
+  info: 
   email: 
   number_educ: 0
   education1:
