@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **"Interested in joining the team? Contact us!"** 
+ **Interested in joining the team? Contact us!** 
 
 <!---
 [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
