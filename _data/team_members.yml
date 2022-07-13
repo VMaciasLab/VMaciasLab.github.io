@@ -38,9 +38,19 @@
   education3:
   education4:
 
-- name: 
-  photo: you.jpg
-  info: 
+- name: Matthew Carrell
+  photo: MatthewCarrell.jpg
+  info: Senior Undergraduate Student in the Department of Biological Sciences at UNT
+  email: 
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+  
+- name: Scott Brothers
+  photo: 
+  info: Undergraduate Student in the Department of Biological Sciences at UNT
   email: 
   number_educ: 0
   education1:
