@@ -20,7 +20,7 @@
   education3: 
 
 - name: Vanessa Bottino-Rojas, PhD
-  photo:
+  photo: Vanessa_Rojas.jpg
   info: Postdoctoral Associate
   duration: "Department of Microbiology and Molecular Biology, University of California: Irvine, Irvine"
   email: 
@@ -31,7 +31,7 @@
   education4: 
 
 - name: Anthony James, PhD
-  photo: 
+  photo: Anthony_James.jpg
   info: Donald Bren Professor of Molecular Biology and Biochemistry
   duration: "Department of Microbiology and Molecular Biology, University of California: Irvine, Irvine"
   number_educ: 0
@@ -44,7 +44,7 @@
   photo: canvas.png
   duration: Official Lab Artist
   info: 
-  email: 
+  email:
   number_educ: 0
   education1: 
   education2:
